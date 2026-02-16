@@ -1,0 +1,7 @@
+{
+    "dbt.perspectiveTheme": "Pro Dark",
+    "dbt.dbtPythonPath": "c:\\Users\\NikhilPatil\\AWS_DBT_Snowflake\\.venv\\Scripts\\python.exe",
+    "dbt.profilesDir": "c:\\Users\\NikhilPatil\\AWS_DBT_Snowflake\\aws_dbt_snowflake_project",
+    "dbt.enableNewLineagePanel": true,
+    "dbt.queryLimit": 100
+}
