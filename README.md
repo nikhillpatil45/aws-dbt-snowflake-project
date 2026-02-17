@@ -1,0 +1,1 @@
+# aws-dbt-snowflake-project
